@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="ElevatorVideoManageSystem:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/Elevator</output-path>
-    <root id="archive" name="ElevatorVideoManageSystem_war exploded.war">
+  <artifact type="exploded-war" name="ElevatorVideoManageSystem:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ElevatorVideoManageSystem_war_exploded</output-path>
+    <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="ElevatorVideoManageSystem" />
@@ -10,17 +10,18 @@
           <element id="library" level="project" name="lib" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web10" />
-      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web3" />
+      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web2" />
       <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web4" />
+      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web3" />
+      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web10" />
       <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web5" />
       <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web9" />
-      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web11" />
-      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web6" />
       <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web7" />
-      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web2" />
-      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web8" />
+      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web6" />
       <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web" />
+      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web12" />
+      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web11" />
+      <element id="javaee-facet-resources" facet="ElevatorVideoManageSystem/web/Web8" />
     </root>
   </artifact>
 </component>
